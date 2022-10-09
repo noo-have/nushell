@@ -1,0 +1,28 @@
+{
+                "altGrAliasing": true,
+                "antialiasingMode": "cleartype",
+                "backgroundImage": null,
+                "backgroundImageOpacity": 0.29999999999999999,
+                "closeOnExit": "automatic",
+                "colorScheme": "Campbell Powershell",
+                "commandline": "nu.exe",
+                "cursorShape": "bar",
+                "experimental.retroTerminalEffect": false,
+                "font": 
+                {
+                    "face": "FiraCode Nerd Font",
+                    "size": 18,
+                    "weight": "semi-bold"
+                },
+                "guid": "{b2ac744a-bad9-43de-be37-3eff8cc6ac45}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": null,
+                "name": "nushell",
+                "opacity": 85,
+                "padding": "0",
+                "scrollbarState": "hidden",
+                "snapOnInput": true,
+                "startingDirectory": "D:\\Code",
+                "useAcrylic": false
+            }
